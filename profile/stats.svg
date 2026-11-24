@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Han Qiao&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 104, Total Commits  (last year) : 417, Total PRs: 1633, Total Issues: 54, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 104, Total Commits  (last year) : 417, Total PRs: 1635, Total Issues: 54, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.96683303130086;
+        stroke-dashoffset: 45.96683303104771;
       }
     }
   
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >14</text>
+      >15</text>
     </g>
   </g>
     </svg>
